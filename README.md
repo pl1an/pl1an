@@ -2,8 +2,6 @@
 <h3 align="left">Computer science undergradute, indie game and front-end developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pl1an" alt="pl1an" height="60"/></a> </p>
-  
-- 🔭 I’m currently working on [Remunera](https://remunera.ai/)
 
 - 🌱 I’m currently learning **Backend javascript frameworks**
 
