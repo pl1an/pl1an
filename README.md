@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-	<a href="https://portfolio-pl1ans-projects.vercel.app/" target="_blank" rel="noreferrer">Visit my live portfolio</a>
+	<a href="https://portfolio-nine-chi-70.vercel.app/" target="_blank" rel="noreferrer">Visit my live portfolio</a>
 </p>
 
 <h3 align="left">Research Interests</h3>
