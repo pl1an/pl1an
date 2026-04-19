@@ -79,8 +79,3 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pl1an&show_icons=true&locale=en&layout=compact" alt="pl1an top languages" height="130" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=pl1an" alt="pl1an streak stats" height="130" />
 </p>
-
-<h3 align="left">Find me</h3>
-
-- GitHub: <a href="https://github.com/pl1an" target="_blank" rel="noreferrer">@pl1an</a>
-- Location: Brazil
