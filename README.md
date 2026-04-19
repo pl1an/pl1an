@@ -13,7 +13,6 @@
 - Foundation models and representation learning.
 - Reinforcement learning and self-supervised learning.
 - Simulation of dynamic and multi-agent systems.
-- Complexity theory, automata, and computational limits.
 - Cybersecurity, cryptography, and data protection.
 
 <h3 align="left">Skills and Tools</h3>
