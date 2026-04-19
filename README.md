@@ -20,7 +20,6 @@
 
 <table>
 	<tr>
-		<td><b>Languages:</b></td>
 		<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/></a></td>
 		<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/></a></td>
 		<td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/></a></td>
@@ -35,7 +34,6 @@
 
 <table>
 	<tr>
-		<td><b>ML:</b></td>
 		<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/></a></td>
 		<td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="32" height="32"/></a></td>
 		<td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="32" height="32"/></a></td>
@@ -46,7 +44,6 @@
 
 <table>
 	<tr>
-		<td><b>Tools:</b></td>
 		<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></a></td>
 		<td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/></a></td>
 		<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/></a></td>
@@ -64,16 +61,10 @@
 
 <table>
 	<tr>
-		<td><b>Game Dev:</b></td>
 		<td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32" height="32"/></a></td>
 		<td><a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="32" height="32"/></a></td>
 	</tr>
 </table>
-
-- Languages: Python, JavaScript, TypeScript, SQL, GDScript, C#, C/C++, Assembly
-- Libraries and Frameworks: React, React Native, Node.js, pandas, NumPy, Matplotlib
-- Core Topics: Data structures, algorithms, OOP, data science, networks, and logic systems
-- Tools: Git, Docker, Postman, Vercel, Wireshark, VS Code, LaTeX, Figma
 
 <h3 align="left">Languages</h3>
 
