@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ian</h1>
+<h1 align="left">Hi, Ian here.</h1>
 
 <p align="left">
 	Computer Science undergraduate at UFMG (Federal University of Minas Gerais).
@@ -8,19 +8,23 @@
 	I am currently focused on machine learning, reinforcement learning, and foundation models.
 </p>
 
+<h3 align="left">Portfolio</h3>
+
+<p align="left">
+	<a href="https://portfolio-pl1ans-projects.vercel.app/" target="_blank" rel="noreferrer">Visit my live portfolio</a>
+</p>
+
 <h3 align="left">Research Interests</h3>
 
 - Foundation models and representation learning.
 - Reinforcement learning and self-supervised learning.
 - Simulation of dynamic and multi-agent systems.
-- Complexity theory, automata, and computational limits.
 - Cybersecurity, cryptography, and data protection.
 
 <h3 align="left">Skills and Tools</h3>
 
 <table>
 	<tr>
-		<td><b>Languages:</b></td>
 		<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/></a></td>
 		<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/></a></td>
 		<td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/></a></td>
@@ -35,7 +39,6 @@
 
 <table>
 	<tr>
-		<td><b>ML:</b></td>
 		<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/></a></td>
 		<td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="32" height="32"/></a></td>
 		<td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="32" height="32"/></a></td>
@@ -46,7 +49,6 @@
 
 <table>
 	<tr>
-		<td><b>Tools:</b></td>
 		<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></a></td>
 		<td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/></a></td>
 		<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/></a></td>
@@ -64,16 +66,10 @@
 
 <table>
 	<tr>
-		<td><b>Game Dev:</b></td>
 		<td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32" height="32"/></a></td>
 		<td><a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="32" height="32"/></a></td>
 	</tr>
 </table>
-
-- Languages: Python, JavaScript, TypeScript, SQL, GDScript, C#, C/C++, Assembly
-- Libraries and Frameworks: React, React Native, Node.js, pandas, NumPy, Matplotlib
-- Core Topics: Data structures, algorithms, OOP, data science, networks, and logic systems
-- Tools: Git, Docker, Postman, Vercel, Wireshark, VS Code, LaTeX, Figma
 
 <h3 align="left">Languages</h3>
 
@@ -85,15 +81,6 @@
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=pl1an&show_icons=true&locale=en&rank_icon=github" alt="pl1an GitHub stats" height="160" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pl1an&show_icons=true&locale=en&layout=compact" alt="pl1an top languages" height="160" />
-</p>
-
-<p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=pl1an" alt="pl1an streak stats" height="160" />
-</p>
-
-<h3 align="left">Find me</h3>
-
-- GitHub: <a href="https://github.com/pl1an" target="_blank" rel="noreferrer">@pl1an</a>
-- Location: Brazil
+	<img src="https://github-readme-stats.vercel.app/api?username=pl1an&show_icons=true&locale=en&rank_icon=github" alt="pl1an GitHub stats" height="130" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pl1an&show_icons=true&locale=en&layout=compact" alt="pl1an top languages" height="130" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=pl1an" alt="pl1an streak stats" height="130" />
