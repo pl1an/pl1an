@@ -75,12 +75,9 @@
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=pl1an&show_icons=true&locale=en&rank_icon=github" alt="pl1an GitHub stats" height="160" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pl1an&show_icons=true&locale=en&layout=compact" alt="pl1an top languages" height="160" />
-</p>
-
-<p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=pl1an" alt="pl1an streak stats" height="160" />
+	<img src="https://github-readme-stats.vercel.app/api?username=pl1an&show_icons=true&locale=en&rank_icon=github" alt="pl1an GitHub stats" height="100" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pl1an&show_icons=true&locale=en&layout=compact" alt="pl1an top languages" height="100" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=pl1an" alt="pl1an streak stats" height="100" />
 </p>
 
 <h3 align="left">Find me</h3>
