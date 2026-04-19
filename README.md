@@ -8,8 +8,6 @@
 	I am currently focused on machine learning, reinforcement learning, and foundation models.
 </p>
 
-<h3 align="left">Portfolio</h3>
-
 <p align="left">
 	<a href="https://portfolio-pl1ans-projects.vercel.app/" target="_blank" rel="noreferrer">Visit my live portfolio</a>
 </p>
