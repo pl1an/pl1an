@@ -84,3 +84,4 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=pl1an&show_icons=true&locale=en&rank_icon=github" alt="pl1an GitHub stats" height="130" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pl1an&show_icons=true&locale=en&layout=compact" alt="pl1an top languages" height="130" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=pl1an" alt="pl1an streak stats" height="130" />
+</p>
